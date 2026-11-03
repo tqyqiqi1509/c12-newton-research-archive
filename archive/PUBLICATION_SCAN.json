@@ -1,0 +1,76 @@
+{
+  "nested_archives_read": 90,
+  "distinct_payload_hashes_scanned": 299615,
+  "high_confidence_findings": [],
+  "scope": "Credential-format scan, not a mathematical certification or exhaustive privacy review",
+  "initial_pattern_findings": [
+    {
+      "path": "00_Codex第0轮_20261028/第00轮__C12_ChatPro_三小时_去重材料包_20261028.zip!C12_ChatPro_3h_20261028/history/sources/w21_search02.json",
+      "kind": "aws_key"
+    },
+    {
+      "path": "04_Chat第4轮_20261029/第04轮__C12_run4_审核与下一轮2h_20261029.zip!objects/ba/ba2db14f9b45cd05f66f3e93cf54d0254dd9a940b7bad451290768acb8e2402d.json",
+      "kind": "aws_key"
+    },
+    {
+      "path": "04_Chat第4轮_20261029/第04轮__C12_run4_审核与下一轮2h_20261029.zip!objects/e3/e3c7eee4a743bee2ed5eb62a1c2b97a5965e8b949a7398086c862e16c4cc1a51.json",
+      "kind": "aws_key"
+    },
+    {
+      "path": "05_Chat第5轮_20261030/第05轮__C12_run5_审核与下一轮5h_20261030.zip!objects/80/8078a18cc9f4fb3d323c4133d37d51c7b1fdbab426578ab3e4652d7a62c100ca.json",
+      "kind": "aws_key"
+    },
+    {
+      "path": "05_Chat第5轮_20261030/第05轮__C12_run5_审核与下一轮5h_20261030.zip!objects/e2/e2d275c8e67df190bf0b0b1d763b2914c9c90cca560490406c493ac438395595.json",
+      "kind": "aws_key"
+    },
+    {
+      "path": "06_Chat第6轮_20261031/C12_run6_audit/input/SOURCE_EXPORT_AUDIT.json",
+      "kind": "aws_key"
+    },
+    {
+      "path": "06_Chat第6轮_20261031/第06轮__C12_run6_审核与下一轮8h_20261031.zip!objects/1b/1bb1fd154b4340728571bb74aa10973fd0e18f1bd6c8c761b4ea1ca82f714717.json",
+      "kind": "aws_key"
+    },
+    {
+      "path": "06_Chat第6轮_20261031/第06轮__C12_run6_审核与下一轮8h_20261031.zip!objects/3e/3ebf373d9b9dff02a831f87b7d71b0f570accbdf9f0cda38106f4faef841723d.json",
+      "kind": "aws_key"
+    },
+    {
+      "path": "06_Chat第6轮_20261031/第06轮__C12_run6_审核与下一轮8h_20261031.zip!objects/4d/4d28c65413b5cee8ba6c5a4b451067f06eb6ea63210881b637d1accbcdcd4308.json",
+      "kind": "aws_key"
+    },
+    {
+      "path": "06_Chat第6轮_20261031/第06轮__C12_run6_审核与下一轮8h_20261031.zip!objects/80/80b644b4bfacc29f401a1164be90b74b2732851acf2746198aae554aa9e46e5b.json",
+      "kind": "aws_key"
+    },
+    {
+      "path": "90_跨轮累计与审核_保留来源映射/C12_20261101_5h_完整累计去重存档.zip!objects/7f1474b6bc90566dc5c42d00e0a948b5b0f643a0cbedd628a6204ae47b904ab3",
+      "kind": "aws_key"
+    },
+    {
+      "path": "09_Chat第9轮_20261101/第09轮__C12_20261101_8h_完整累计去重包.zip!objects/c65eadc48e0eacb46ec2cbfa6930e88a2c73cc4d5fdde3a91b7856505f50d978",
+      "kind": "aws_key"
+    },
+    {
+      "path": "09_Chat第9轮_20261101/第09轮__C12_20261101_8h_完整累计去重包.zip!objects/ce7659dc61a8ced7702af6f50ae40bdb31a2c081569c10a0867558c0ff454b3c",
+      "kind": "aws_key"
+    }
+  ],
+  "resolved_by_static_review": 13,
+  "review_file": "REVIEWED_SCAN_FINDINGS.json",
+  "source_map_sha256": "901425cad73d578f5f068ba9db5218d35092f21a8344bc93f82e4b22468dd050",
+  "formats_checked": [
+    "GitHub",
+    "OpenAI",
+    "PEM private-key markers",
+    "Anthropic",
+    "AWS access-key-ID patterns",
+    "Slack",
+    "HuggingFace",
+    "Stripe live-key patterns"
+  ],
+  "utf16_handling": "UTF16/BOM or high-NUL text normalization before pattern checks",
+  "zip_nesting_limit": 20,
+  "binary_scope": "Non-ZIP binary/container formats are not decoded; this is not an exhaustive privacy certification."
+}

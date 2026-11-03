@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-03",
+  "timezone": "Asia/Shanghai",
+  "method": "Static local-only parsing. No URL or marker was used for any network authentication request. Matching marker values are intentionally omitted.",
+  "checked_count": 13,
+  "unresolved_count": 0,
+  "can_publish_original_bytes": true,
+  "findings_reviewed": 13,
+  "all_findings_expired_source_url_false_positives": true,
+  "entries": [
+    {
+      "path": "00_Codex第0轮_20261028/第00轮__C12_ChatPro_三小时_去重材料包_20261028.zip!C12_ChatPro_3h_20261028/history/sources/w21_search02.json",
+      "kind": "aws_key",
+      "payload_sha256": "a74b3cf895baa7d013c96162274cbc766539d8e798e79730e1e319938df4aa8e",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2025-11-13T22:20:04+00:00",
+          "expiry_utc": "2025-11-15T22:20:04+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "04_Chat第4轮_20261029/第04轮__C12_run4_审核与下一轮2h_20261029.zip!objects/ba/ba2db14f9b45cd05f66f3e93cf54d0254dd9a940b7bad451290768acb8e2402d.json",
+      "kind": "aws_key",
+      "payload_sha256": "ba2db14f9b45cd05f66f3e93cf54d0254dd9a940b7bad451290768acb8e2402d",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2025-11-13T22:20:04+00:00",
+          "expiry_utc": "2025-11-15T22:20:04+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "04_Chat第4轮_20261029/第04轮__C12_run4_审核与下一轮2h_20261029.zip!objects/e3/e3c7eee4a743bee2ed5eb62a1c2b97a5965e8b949a7398086c862e16c4cc1a51.json",
+      "kind": "aws_key",
+      "payload_sha256": "e3c7eee4a743bee2ed5eb62a1c2b97a5965e8b949a7398086c862e16c4cc1a51",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2025-11-13T22:20:04+00:00",
+          "expiry_utc": "2025-11-15T22:20:04+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "05_Chat第5轮_20261030/第05轮__C12_run5_审核与下一轮5h_20261030.zip!objects/80/8078a18cc9f4fb3d323c4133d37d51c7b1fdbab426578ab3e4652d7a62c100ca.json",
+      "kind": "aws_key",
+      "payload_sha256": "8078a18cc9f4fb3d323c4133d37d51c7b1fdbab426578ab3e4652d7a62c100ca",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2025-11-13T22:20:04+00:00",
+          "expiry_utc": "2025-11-15T22:20:04+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "05_Chat第5轮_20261030/第05轮__C12_run5_审核与下一轮5h_20261030.zip!objects/e2/e2d275c8e67df190bf0b0b1d763b2914c9c90cca560490406c493ac438395595.json",
+      "kind": "aws_key",
+      "payload_sha256": "e2d275c8e67df190bf0b0b1d763b2914c9c90cca560490406c493ac438395595",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2025-11-13T22:20:04+00:00",
+          "expiry_utc": "2025-11-15T22:20:04+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "06_Chat第6轮_20261031/C12_run6_audit/input/SOURCE_EXPORT_AUDIT.json",
+      "kind": "aws_key",
+      "payload_sha256": "d788bccaee3d324ee0753729baf06dcc60cc7e152167d15f1b4b8dca3f90fed1",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2025-11-13T22:20:04+00:00",
+          "expiry_utc": "2025-11-15T22:20:04+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "06_Chat第6轮_20261031/第06轮__C12_run6_审核与下一轮8h_20261031.zip!objects/1b/1bb1fd154b4340728571bb74aa10973fd0e18f1bd6c8c761b4ea1ca82f714717.json",
+      "kind": "aws_key",
+      "payload_sha256": "1bb1fd154b4340728571bb74aa10973fd0e18f1bd6c8c761b4ea1ca82f714717",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2025-11-13T22:20:04+00:00",
+          "expiry_utc": "2025-11-15T22:20:04+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "06_Chat第6轮_20261031/第06轮__C12_run6_审核与下一轮8h_20261031.zip!objects/3e/3ebf373d9b9dff02a831f87b7d71b0f570accbdf9f0cda38106f4faef841723d.json",
+      "kind": "aws_key",
+      "payload_sha256": "3ebf373d9b9dff02a831f87b7d71b0f570accbdf9f0cda38106f4faef841723d",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2025-11-13T22:20:04+00:00",
+          "expiry_utc": "2025-11-15T22:20:04+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "06_Chat第6轮_20261031/第06轮__C12_run6_审核与下一轮8h_20261031.zip!objects/4d/4d28c65413b5cee8ba6c5a4b451067f06eb6ea63210881b637d1accbcdcd4308.json",
+      "kind": "aws_key",
+      "payload_sha256": "4d28c65413b5cee8ba6c5a4b451067f06eb6ea63210881b637d1accbcdcd4308",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2025-11-13T22:20:04+00:00",
+          "expiry_utc": "2025-11-15T22:20:04+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "06_Chat第6轮_20261031/第06轮__C12_run6_审核与下一轮8h_20261031.zip!objects/80/80b644b4bfacc29f401a1164be90b74b2732851acf2746198aae554aa9e46e5b.json",
+      "kind": "aws_key",
+      "payload_sha256": "80b644b4bfacc29f401a1164be90b74b2732851acf2746198aae554aa9e46e5b",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2025-11-13T22:20:04+00:00",
+          "expiry_utc": "2025-11-15T22:20:04+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "90_跨轮累计与审核_保留来源映射/C12_20261101_5h_完整累计去重存档.zip!objects/7f1474b6bc90566dc5c42d00e0a948b5b0f643a0cbedd628a6204ae47b904ab3",
+      "kind": "aws_key",
+      "payload_sha256": "7f1474b6bc90566dc5c42d00e0a948b5b0f643a0cbedd628a6204ae47b904ab3",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2026-08-11T06:22:50+00:00",
+          "expiry_utc": "2026-08-12T06:22:49+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "09_Chat第9轮_20261101/第09轮__C12_20261101_8h_完整累计去重包.zip!objects/c65eadc48e0eacb46ec2cbfa6930e88a2c73cc4d5fdde3a91b7856505f50d978",
+      "kind": "aws_key",
+      "payload_sha256": "c65eadc48e0eacb46ec2cbfa6930e88a2c73cc4d5fdde3a91b7856505f50d978",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2026-08-11T06:22:50+00:00",
+          "expiry_utc": "2026-08-12T06:22:49+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    },
+    {
+      "path": "09_Chat第9轮_20261101/第09轮__C12_20261101_8h_完整累计去重包.zip!objects/ce7659dc61a8ced7702af6f50ae40bdb31a2c081569c10a0867558c0ff454b3c",
+      "kind": "aws_key",
+      "payload_sha256": "ce7659dc61a8ced7702af6f50ae40bdb31a2c081569c10a0867558c0ff454b3c",
+      "raw_marker_occurrences": 1,
+      "parsed_marker_occurrences": 1,
+      "all_markers_confined_to_presigned_url_credential_parameter": true,
+      "unconfined_marker_count": 0,
+      "secret_access_key_assignment_evidence": false,
+      "private_configuration_evidence": false,
+      "urls": [
+        {
+          "domain": "s3.amazonaws.com",
+          "credential_parameter_only": true,
+          "signing_utc": "2026-05-24T05:31:01+00:00",
+          "expiry_utc": "2026-05-25T05:31:00+00:00",
+          "expiry_source": "X-Amz-Date plus X-Amz-Expires",
+          "expired_before_2026_11_03_Asia_Shanghai": true,
+          "matched_marker_count": 1
+        }
+      ],
+      "classification": "expired_public_source_presigned_url_false_positive"
+    }
+  ]
+}

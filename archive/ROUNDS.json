@@ -1,0 +1,74 @@
+[
+  {
+    "round": 0,
+    "conversation": "Codex original research, 2026-10-28",
+    "legacy_path_prefix": "00_Codex第0轮_20261028",
+    "scope": "C4/C12/C13 source packet; C12 remained open"
+  },
+  {
+    "round": 1,
+    "conversation": "C12（1）",
+    "legacy_path_prefix": "02_Chat第2轮_20261029",
+    "scope": "Support and IH split; legacy folder numbering corrected"
+  },
+  {
+    "round": 2,
+    "conversation": "C12（2）",
+    "legacy_path_prefix": "03_Chat第3轮_20261029",
+    "scope": "C12_final_20261029; conversation final body incomplete, local export retained"
+  },
+  {
+    "round": 3,
+    "conversation": "C12（3）",
+    "legacy_path_prefix": "04_Chat第4轮_20261029",
+    "scope": "run4; cone recursion and mechanism counterexamples"
+  },
+  {
+    "round": 4,
+    "conversation": "C12（4）",
+    "legacy_path_prefix": "05_Chat第5轮_20261030",
+    "scope": "run5; conversation response fragment, local export retained"
+  },
+  {
+    "round": 5,
+    "conversation": "C12（5）",
+    "legacy_path_prefix": "06_Chat第6轮_20261031",
+    "scope": "run6; ordinary Newton multiplication and rooted multiplier"
+  },
+  {
+    "round": 6,
+    "conversation": "C12（6）",
+    "legacy_path_prefix": "07_Chat第7轮_20261031",
+    "scope": "run7; shifted multiplier, all integer selections, profile geometry"
+  },
+  {
+    "round": 7,
+    "conversation": "C12（7）",
+    "legacy_path_prefix": "08_Chat第8轮_20261031",
+    "scope": "run8 and nine checkpoints; Hurwitz/Toda and asymptotic regions"
+  },
+  {
+    "round": 8,
+    "conversation": "C12（8）（未解决）",
+    "legacy_path_prefix": "90_跨轮累计与审核_保留来源映射/C12_20261101_audit",
+    "scope": "Oct31 ten-hour run; latest reconstructed export plus cumulative package"
+  },
+  {
+    "round": 9,
+    "conversation": "C12（9）",
+    "legacy_path_prefix": "09_Chat第9轮_20261101",
+    "scope": "Nov1 independent AUTO reviews; 1.56GB cumulative archive also preserves prior rounds"
+  },
+  {
+    "round": 10,
+    "conversation": "C12（10）",
+    "legacy_path_prefix": "10_Chat第10轮_20261102",
+    "scope": "150-minute run; original research payloads retained via deduplicated handoff"
+  },
+  {
+    "round": 11,
+    "conversation": "C12（11）封存",
+    "legacy_path_prefix": "11_Chat第11轮_已恢复部分_20261103",
+    "scope": "Available Stage01–03 recovery; late original files missing"
+  }
+]

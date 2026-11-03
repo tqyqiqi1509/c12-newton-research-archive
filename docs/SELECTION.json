@@ -1,0 +1,82 @@
+[
+  {
+    "result": "Newton multiplication LC",
+    "placement": "main theorem base",
+    "boundary": "known kernel; LC priority unresolved"
+  },
+  {
+    "result": "supported shifted multiplier",
+    "placement": "main theorem",
+    "boundary": "exact prior coverage not found; not certified novel"
+  },
+  {
+    "result": "all integer binomial selections",
+    "placement": "main theorem corollary",
+    "boundary": "exact prior coverage not found; not certified novel"
+  },
+  {
+    "result": "coordinatewise two-variable Schur preservation",
+    "placement": "structural companion candidate",
+    "boundary": "proof checked; GL2 versus Frobenius relation unresolved"
+  },
+  {
+    "result": "partial synchronicity under common Newton factor",
+    "placement": "corollary",
+    "boundary": "concept attributed Hu et al.; ordinary convolution prior"
+  },
+  {
+    "result": "weighted overlap",
+    "placement": "short corollary",
+    "boundary": "geometric scaling, not standalone novelty"
+  },
+  {
+    "result": "rooted binomial multiplier",
+    "placement": "short corollary",
+    "boundary": "derived from shifted multiplier"
+  },
+  {
+    "result": "exact original wall support all gcd",
+    "placement": "proved application candidate",
+    "boundary": "C11 and fixed-m nonvanishing prior; NIZ contribution distinguished"
+  },
+  {
+    "result": "uniform integer slope prefix",
+    "placement": "appendix statement",
+    "boundary": "own analysis with inherited exact identity"
+  },
+  {
+    "result": "fixed slope eventual whole row",
+    "placement": "appendix statement",
+    "boundary": "historical bulk dependency"
+  },
+  {
+    "result": "residue two eventual whole row",
+    "placement": "appendix statement",
+    "boundary": "historical high-tail dependency"
+  },
+  {
+    "result": "primitive bounded aspect bulk",
+    "placement": "appendix statement",
+    "boundary": "inherited full source chain"
+  },
+  {
+    "result": "R216 all gcd high tail",
+    "placement": "appendix inherited-input statement",
+    "boundary": "ROOT25/26 retained"
+  },
+  {
+    "result": "Euler assembly",
+    "placement": "conditional application",
+    "boundary": "actual atom LC and collective sum unresolved"
+  },
+  {
+    "result": "hook and root criteria",
+    "placement": "conditional appendix",
+    "boundary": "actual input conditions unresolved"
+  },
+  {
+    "result": "transportation, entropy, IH, Poincare, Toda",
+    "placement": "excluded from this paper body",
+    "boundary": "retained in research archive"
+  }
+]

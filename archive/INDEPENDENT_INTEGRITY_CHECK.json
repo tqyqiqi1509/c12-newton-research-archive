@@ -1,0 +1,86 @@
+{
+  "result": "PASS",
+  "source_file_paths": 36843,
+  "unique_objects": 8399,
+  "assets": 4,
+  "native_file_set_equal": true,
+  "source_size_checks": true,
+  "path_uniqueness_and_containment": true,
+  "all_zip_member_names_and_sizes_equal": true,
+  "all_parts_below_2GiB": true,
+  "sample_objects": [
+    {
+      "pack": "C12_all_rounds_objects_part01_20261103.zip",
+      "member": "objects/0000d738ccf5d3e0dd19bddf9fc929c9fa65c9786203b4f28ece0b6e0590ed23",
+      "bytes": 374,
+      "sha256": "PASS"
+    },
+    {
+      "pack": "C12_all_rounds_objects_part01_20261103.zip",
+      "member": "objects/000866e0e48a4dcb8a96b959e157b8fb1df169a1cc4bad80f60357f6e9146146",
+      "bytes": 11980,
+      "sha256": "PASS"
+    },
+    {
+      "pack": "C12_all_rounds_objects_part01_20261103.zip",
+      "member": "objects/000a0b127e05130f3364afc51c3ce3c8301f0af96f0a2d226ba71dff21f62d96",
+      "bytes": 4977,
+      "sha256": "PASS"
+    },
+    {
+      "pack": "C12_all_rounds_objects_part02_20261103.zip",
+      "member": "objects/6a87bfad50f3252c4cc4fe7ccad012e3fc928adddb38e43432ad208596f678b5",
+      "bytes": 24084,
+      "sha256": "PASS"
+    },
+    {
+      "pack": "C12_all_rounds_objects_part02_20261103.zip",
+      "member": "objects/6a9cb34fdc1744dc5456e1e587c66588a4491243481ef8490118b4729d18e1c3",
+      "bytes": 13584,
+      "sha256": "PASS"
+    },
+    {
+      "pack": "C12_all_rounds_objects_part02_20261103.zip",
+      "member": "objects/6aa8add190cda32954bcafdcfa419ffacd37883a31b0efc10e618010575b959f",
+      "bytes": 5664,
+      "sha256": "PASS"
+    },
+    {
+      "pack": "C12_all_rounds_objects_part03_20261103.zip",
+      "member": "objects/77fe8b315cc8cd0974837828d9e68213709f98959b116ef486968932b87b598d",
+      "bytes": 23233,
+      "sha256": "PASS"
+    },
+    {
+      "pack": "C12_all_rounds_objects_part03_20261103.zip",
+      "member": "objects/780bd73177041e39b38965b4489ed3b9a52887c9a6f2016fc73f292f49bfc3e0",
+      "bytes": 17634,
+      "sha256": "PASS"
+    },
+    {
+      "pack": "C12_all_rounds_objects_part03_20261103.zip",
+      "member": "objects/781108a13d45190c73033c54b8ea24f2885fbd12432de9eaa879e4ac2da82062",
+      "bytes": 722,
+      "sha256": "PASS"
+    },
+    {
+      "pack": "C12_all_rounds_objects_part04_20261103.zip",
+      "member": "objects/df37154abff40870f34ddabf6568d0beca912dcade4fca69fadd4602d7c7830f",
+      "bytes": 5884,
+      "sha256": "PASS"
+    },
+    {
+      "pack": "C12_all_rounds_objects_part04_20261103.zip",
+      "member": "objects/df3892948e7409ad5b978039de5741bcb9b47c33668f225a5e6c3818bffa6832",
+      "bytes": 13348,
+      "sha256": "PASS"
+    },
+    {
+      "pack": "C12_all_rounds_objects_part04_20261103.zip",
+      "member": "objects/df3abde0ba5ed933d22b7cac9f6d95acc15d62e37d7fe10c7f25a46573a9a562",
+      "bytes": 9900,
+      "sha256": "PASS"
+    }
+  ],
+  "limits": "No independent full object/part hash replay; producer stream hash and CRC/part hashes remain separate evidence."
+}

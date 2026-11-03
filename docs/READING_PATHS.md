@@ -1,0 +1,1 @@
+Historical absolute Windows paths in reports are provenance records. They are not links to public server files. Use archive/SOURCE_MAP.json and ROUNDS.md to locate the corresponding payload after restoration. The proofs/ directory contains selected directly readable proofs; full original source-path aliases remain in the release objects.

@@ -1,0 +1,12 @@
+{
+  "status": "SOURCE_MAP_PASS",
+  "paths": 36843,
+  "unique_hashes": 8399,
+  "unique_bytes": 5252090518,
+  "native_file_set_equal": true,
+  "all_source_sizes_match": true,
+  "path_uniqueness_casefold": true,
+  "path_containment": true,
+  "dedup_aliases": 28444,
+  "limits": "Read-only mapping and size check; no duplicate full hashing. OBJECT_INDEX/ASSETS pending."
+}
